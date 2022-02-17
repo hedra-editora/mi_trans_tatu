@@ -1,0 +1,8 @@
+\thispagestyle {empty}
+\contentsline {chapter}{Introdução}{7}
+\contentsline {section}{quem são os caxinauá}{7}
+\contentsline {chapter}{Como foi feito este livro}{9}
+\contentsline {chapter}{Para ler as palavras caxinauá}{11}
+\contentsline {chapter}{A mulher que virou tatu}{13}
+\contentsline {chapter}{Yuxabu yaixni}{15}
+\babel@toc {brazilian}{}
