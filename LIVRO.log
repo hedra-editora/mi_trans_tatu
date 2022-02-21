@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  17 FEB 2022 17:02
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  21 FEB 2022 20:42
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.087 seconds
+luaotfload | main : initialization completed in 0.096 seconds
 Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -66,11 +66,11 @@ Package ifluatex Info: LuaTeX detected.
 \trimtop=\skip46
 \trimedge=\skip47
 
-(/usr/share/texlive/texmf-dist/tex/latex/memoir/mem11.clo
-File: mem11.clo 2008/01/30 v0.3 memoir class 11pt size option
+(/usr/share/texlive/texmf-dist/tex/latex/memoir/mem12.clo
+File: mem12.clo 2010/10/19 v0.4b memoir class 12pt size option
 luaotfload | db : Font names database loaded from /home/edlab/.texlive2017/texmf
 -var/luatex-cache/generic/names/luaotfload-names.luc(load luc: /home/edlab/.texl
-ive2017/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-regular.luc))
+ive2017/texmf-var/luatex-cache/generic/fonts/otl/lmroman12-regular.luc))
 \binding=\skip48
 \spinemargin=\skip49
 \foremargin=\skip50
@@ -276,7 +276,7 @@ LaTeX Info: Redefining \emph on input line 7559.
 \m@m@h=\dimen142
 \m@mipn@skip=\skip165
 (load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/lmr
-oman9-regular.luc)
+oman10-regular.luc)
 \sidefootins=\insert195
 \sidefootadjust=\skip166
 \sidefootheight=\skip167
@@ -368,9 +368,11 @@ Package tocloft [2008/07/23] emulated by memoir.
 Package tocvsec2 [2008/07/23] emulated by memoir.
 Package verbatim [2008/07/23] emulated by memoir.
 Package verse [2008/07/23] emulated by memoir.
- (/usr/share/texlive/texmf-dist/tex/latex/memoir/mempatch.sty
+
+(/usr/share/texlive/texmf-dist/tex/latex/memoir/mempatch.sty
 Package: mempatch 2009/07/24 v6.0f Patches for memoir class v1.6180339
-)) (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+))
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2018/02/14 3.18 The Babel package
 
 (/usr/share/texlive/texmf-dist/tex/generic/babel/switch.def
@@ -847,8 +849,8 @@ LaTeX Info: Redefining \upshape on input line 3640.
 LaTeX Info: Redefining \em on input line 3670.
 LaTeX Info: Redefining \emph on input line 3695.
 (load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/lmr
-oman10-bold.luc)(load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/gener
-ic/fonts/otl/lmroman10-italic.luc)
+oman12-bold.luc)(load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/gener
+ic/fonts/otl/lmroman12-italic.luc)
 LaTeX Info: Redefining \- on input line 3749.
 .................................................
 . LaTeX info: "xparse/redefine-command"
@@ -1059,19 +1061,19 @@ Class memoir Warning: \marginparsep is zero or negative on input line 164.
 Stock height and width: 845.04684pt by 597.50787pt
 Top and edge trims: 56.9055pt and 109.5431pt
 Page height and width: 597.50787pt by 378.42165pt
-Text height and width: 473.4002pt by 275pt
+Text height and width: 476pt by 275pt
 Spine and edge margins: 55.87474pt and 46.55518pt
-Upper and lower margins: 47.53113pt and 76.57654pt
-Headheight and headsep: 13.6pt and 14.22636pt
-Footskip: 27.46295pt
+Upper and lower margins: 47.53113pt and 73.97675pt
+Headheight and headsep: 14.5pt and 14.22636pt
+Footskip: 30pt
 Columnsep and columnseprule: 10pt and 0pt
 Marginparsep and marginparwidth: 0pt and 68.99792pt
-Sidecapsep and sidecapwidth: 7pt and 111pt
-Sidebarhsep and sidebarwidth: 7pt and 111pt
-Sidebarvsep and sidebartopsep: 13.6pt and 0pt
-Sidebarheight: 539.9202pt
-Sidefoothsep and sidefootwidth: 7pt and 111pt
-Sidefootvsep and sidefootheight: 13.6pt and 539.9202pt
+Sidecapsep and sidecapwidth: 7pt and 102pt
+Sidebarhsep and sidebarwidth: 7pt and 102pt
+Sidebarvsep and sidebartopsep: 14.5pt and 0pt
+Sidebarheight: 546.64995pt
+Sidefoothsep and sidefootwidth: 7pt and 102pt
+Sidefootvsep and sidefootheight: 14.5pt and 546.64995pt
 ******************************************************
 
 ) (./edlab-sections.sty
@@ -1114,12 +1116,12 @@ Package footmisc Info: Declaring symbol style lamport*-robust on input line 924.
 ))
 luaotfload | cache : Lookup cache loaded from /home/edlab/.texlive2017/texmf-var
 /luatex-cache/generic/names/luaotfload-lookup-cache.luc.(load luc: /home/edlab/.
-texlive2017/texmf-var/luatex-cache/generic/fonts/otl/formular-regular.luc)
+texlive2017/texmf-var/luatex-cache/generic/fonts/otl/formular-regular-mi.luc)
 \g__fontspec_family_Formular_int=\count323
 (load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/for
 mular-bolditalic.luc)(load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/
-generic/fonts/otl/formular-bold.luc)(load luc: /home/edlab/.texlive2017/texmf-va
-r/luatex-cache/generic/fonts/otl/formular-italic.luc)
+generic/fonts/otl/formular-bold-mi.luc)(load luc: /home/edlab/.texlive2017/texmf
+-var/luatex-cache/generic/fonts/otl/formular-italic.luc)
 luaotfload | aux : font no 32 (nil) does not define feature smcp for script latn
  with language dflt
 luaotfload | aux : no font with id 32
@@ -1221,8 +1223,7 @@ num;"
 num;+smcp;"
 .................................................
 LaTeX Info: Redefining \rmfamily on input line 61.
-
-(./LIVRO.aux (./INPUTS.aux))
+ (./LIVRO.aux (./INPUTS.aux))
 \openout1 = LIVRO.aux
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 74.
@@ -1387,8 +1388,13 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `Formular' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
+
+Overfull \hbox (8.98634pt too wide) in paragraph at lines 54--56
+\TU/Formular(0)/bx/n/24.88 A mu-lher que vi-rou tatu 
+ []
+
 )(load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/lm
-mono10-regular.luc)
+mono12-regular.luc)
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmtt' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
@@ -1397,8 +1403,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 ono8-regular.luc) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 
-]
-(./2-creditos.tex
+] (./2-creditos.tex
 Underfull \hbox (badness 10000) in paragraph at lines 14--18
 
  []
@@ -1409,7 +1414,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 19--27
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 30.
+(Font)              <8> on input line 30.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 30.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 30.
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
@@ -1430,8 +1437,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 48--54
 
  []
 
-) [2] (./3-rosto.tex(load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/g
-eneric/fonts/otl/ebgaramond12-regular.luc)
+) [2] (./3-rosto.tex
+Overfull \hbox (8.98634pt too wide) in paragraph at lines 39--41
+\TU/Formular(0)/bx/n/24.88 A mu-lher que vi-rou tatu 
+ []
+
+(load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/ebg
+aramond12-regular.luc)
 \g__fontspec_family_EBGaramond12-Regular_int=\count332
 .................................................
 . fontspec info: "no-font-shape"
@@ -1512,34 +1524,231 @@ Package microtype Info: Loading generic protrusion settings for font family
 [5] (./INTRO.tex [6
 
 
-] [7]) (./FEITO.tex [8]) (./CAXINAUA.tex [9
+] [7]) (./FEITO.tex [8] [9
 
-] [10]
+]) (./CAXINAUA.tex [10]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 10.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 10.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 10.
+(Font)              <12> on input line 10.
 )
 (./TEXTO.tex [11
 
-] [12
+] [12] [13
+
+] [14
 
 ]
-Underfull \hbox (badness 1546) in paragraph at lines 67--78
-[]\TU/EBGaramond-Regular.ttf(0)/m/n/10.95 Um ho-mem que ha-via ido ca-çar a vi
-u ca-vando o bu-raco,
+<./imgs/img1.jpg, id=56, 1576.89125pt x 2489.3pt>
+File: ./imgs/img1.jpg Graphic file (type jpg)
+<use ./imgs/img1.jpg>
+Package luatex.def Info: ./imgs/img1.jpg  used on input line 33.
+(luatex.def)             Requested size: 392.64803pt x 619.81656pt.
+
+Overfull \hbox (55.05206pt too wide) in paragraph at lines 33--34
+[]| [] 
  []
 
-[13] [14] [15
 
-]) (./Y-publicidade.tex [16] [17]
+LaTeX Warning: Float too large for page by 98.29198pt on input line 34.
+
+[15<./imgs/img1.jpg>] [16
+
+]
+<./imgs/img2.jpg, id=63, 1576.89125pt x 2489.3pt>
+File: ./imgs/img2.jpg Graphic file (type jpg)
+<use ./imgs/img2.jpg>
+Package luatex.def Info: ./imgs/img2.jpg  used on input line 58.
+(luatex.def)             Requested size: 392.64803pt x 619.81656pt.
+
+Overfull \hbox (55.05206pt too wide) in paragraph at lines 58--59
+[]| [] 
+ []
+
+
+LaTeX Warning: Float too large for page by 98.29198pt on input line 59.
+
+[17<./imgs/img2.jpg>] [18
+
+]
+<./imgs/img3.jpg, id=70, 1576.89125pt x 2489.3pt>
+File: ./imgs/img3.jpg Graphic file (type jpg)
+<use ./imgs/img3.jpg>
+Package luatex.def Info: ./imgs/img3.jpg  used on input line 106.
+(luatex.def)             Requested size: 392.64803pt x 619.81656pt.
+
+Overfull \hbox (55.05206pt too wide) in paragraph at lines 106--107
+[]| [] 
+ []
+
+
+LaTeX Warning: Float too large for page by 98.29198pt on input line 107.
+
+[19<./imgs/img3.jpg>] [20
+
+]
+<./imgs/img4.jpg, id=77, 1576.89125pt x 2489.3pt>
+File: ./imgs/img4.jpg Graphic file (type jpg)
+<use ./imgs/img4.jpg>
+Package luatex.def Info: ./imgs/img4.jpg  used on input line 152.
+(luatex.def)             Requested size: 392.64803pt x 619.81656pt.
+
+Overfull \hbox (55.05206pt too wide) in paragraph at lines 152--153
+[]| [] 
+ []
+
+
+LaTeX Warning: Float too large for page by 98.29198pt on input line 153.
+
+[21<./imgs/img4.jpg>] [22
+
+]
+<./imgs/img5.jpg, id=85, 1576.89125pt x 2489.3pt>
+File: ./imgs/img5.jpg Graphic file (type jpg)
+<use ./imgs/img5.jpg>
+Package luatex.def Info: ./imgs/img5.jpg  used on input line 186.
+(luatex.def)             Requested size: 392.64803pt x 619.81656pt.
+
+Overfull \hbox (55.05206pt too wide) in paragraph at lines 186--187
+[]| [] 
+ []
+
+
+LaTeX Warning: Float too large for page by 98.29198pt on input line 187.
+
+[23<./imgs/img5.jpg>] [24
+
+]
+<./imgs/img6.jpg, id=92, 1576.89125pt x 2489.3pt>
+File: ./imgs/img6.jpg Graphic file (type jpg)
+<use ./imgs/img6.jpg>
+Package luatex.def Info: ./imgs/img6.jpg  used on input line 222.
+(luatex.def)             Requested size: 392.64803pt x 619.81656pt.
+
+Overfull \hbox (55.05206pt too wide) in paragraph at lines 222--223
+[]| [] 
+ []
+
+
+LaTeX Warning: Float too large for page by 98.29198pt on input line 223.
+
+[25<./imgs/img6.jpg>] [26
+
+]
+<./imgs/img7.jpg, id=99, 1576.89125pt x 2489.3pt>
+File: ./imgs/img7.jpg Graphic file (type jpg)
+<use ./imgs/img7.jpg>
+Package luatex.def Info: ./imgs/img7.jpg  used on input line 247.
+(luatex.def)             Requested size: 392.64803pt x 619.81656pt.
+
+Overfull \hbox (55.05206pt too wide) in paragraph at lines 247--248
+[]| [] 
+ []
+
+
+LaTeX Warning: Float too large for page by 98.29198pt on input line 248.
+
+[27<./imgs/img7.jpg>] [28
+
+]
+<./imgs/img8.jpg, id=106, 1576.89125pt x 2489.3pt>
+File: ./imgs/img8.jpg Graphic file (type jpg)
+<use ./imgs/img8.jpg>
+Package luatex.def Info: ./imgs/img8.jpg  used on input line 287.
+(luatex.def)             Requested size: 392.64803pt x 619.81656pt.
+
+Overfull \hbox (55.05206pt too wide) in paragraph at lines 287--288
+[]| [] 
+ []
+
+
+LaTeX Warning: Float too large for page by 98.29198pt on input line 288.
+
+[29<./imgs/img8.jpg>] [30
+
+]
+<./imgs/img9.jpg, id=113, 1576.89125pt x 2489.3pt>
+File: ./imgs/img9.jpg Graphic file (type jpg)
+<use ./imgs/img9.jpg>
+Package luatex.def Info: ./imgs/img9.jpg  used on input line 328.
+(luatex.def)             Requested size: 392.64803pt x 619.81656pt.
+
+Overfull \hbox (55.05206pt too wide) in paragraph at lines 328--329
+[]| [] 
+ []
+
+
+LaTeX Warning: Float too large for page by 98.29198pt on input line 329.
+
+[31<./imgs/img9.jpg>] [32
+
+]
+<./imgs/img10.jpg, id=121, 1576.89125pt x 2489.3pt>
+File: ./imgs/img10.jpg Graphic file (type jpg)
+<use ./imgs/img10.jpg>
+Package luatex.def Info: ./imgs/img10.jpg  used on input line 361.
+(luatex.def)             Requested size: 392.64803pt x 619.81656pt.
+
+Overfull \hbox (55.05206pt too wide) in paragraph at lines 361--362
+[]| [] 
+ []
+
+
+LaTeX Warning: Float too large for page by 98.29198pt on input line 362.
+
+[33<./imgs/img10.jpg>] [34
+
+]
+<./imgs/img11.jpg, id=128, 1576.89125pt x 2489.3pt>
+File: ./imgs/img11.jpg Graphic file (type jpg)
+<use ./imgs/img11.jpg>
+Package luatex.def Info: ./imgs/img11.jpg  used on input line 400.
+(luatex.def)             Requested size: 392.64803pt x 619.81656pt.
+
+Overfull \hbox (55.05206pt too wide) in paragraph at lines 400--401
+[]| [] 
+ []
+
+
+LaTeX Warning: Float too large for page by 98.29198pt on input line 401.
+
+[35<./imgs/img11.jpg>] [36
+
+]
+<./imgs/img12.jpg, id=135, 1576.89125pt x 2489.3pt>
+File: ./imgs/img12.jpg Graphic file (type jpg)
+<use ./imgs/img12.jpg>
+Package luatex.def Info: ./imgs/img12.jpg  used on input line 437.
+(luatex.def)             Requested size: 392.64803pt x 619.81656pt.
+
+Overfull \hbox (55.05206pt too wide) in paragraph at lines 437--438
+[]| [] 
+ []
+
+
+LaTeX Warning: Float too large for page by 98.29198pt on input line 438.
+
+[37<./imgs/img12.jpg>] [38
+
+]
+<./imgs/img13.jpg, id=142, 1576.89125pt x 2489.3pt>
+File: ./imgs/img13.jpg Graphic file (type jpg)
+<use ./imgs/img13.jpg>
+Package luatex.def Info: ./imgs/img13.jpg  used on input line 470.
+(luatex.def)             Requested size: 392.64803pt x 619.81656pt.
+
+Overfull \hbox (55.05206pt too wide) in paragraph at lines 470--471
+[]| [] 
+ []
+
+
+Overfull \vbox (98.29198pt too high) has occurred while \output is active []
+
+
+[39<./imgs/img13.jpg>]) (./Y-publicidade.tex [40]
 Underfull \hbox (badness 10000) in paragraph at lines 8--10
 
  []
 
-[18] [19]
+[41] [42]
 Underfull \hbox (badness 10000) in paragraph at lines 141--142
 
  []
@@ -1549,29 +1758,29 @@ Underfull \hbox (badness 10000) in paragraph at lines 154--155
 
  []
 
-[20] [21]) [22] (./Z-colofon.tex [23]
+[43] [44]) [45] (./Z-colofon.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 36.
+(Font)              <7> on input line 36.
 ))(load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/l
-mmono9-regular.luc) [24]
+mmono10-regular.luc) [46]
 
 ******************************************************
 Stock height and width: 845.04684pt by 597.50787pt
 Top and edge trims: 56.9055pt and 109.5431pt
 Page height and width: 597.50787pt by 378.42165pt
-Text height and width: 484pt by 275pt
+Text height and width: 480pt by 275pt
 Spine and edge margins: 55.87474pt and 46.55518pt
-Upper and lower margins: 42.8009pt and 70.70697pt
-Headheight and headsep: 13.6pt and 0pt
-Footskip: 27.46295pt
+Upper and lower margins: 41.90063pt and 75.60724pt
+Headheight and headsep: 14.5pt and 0pt
+Footskip: 30pt
 Columnsep and columnseprule: 10pt and 0pt
-Marginparsep and marginparwidth: 12.74579pt and 21.0636pt
-Sidecapsep and sidecapwidth: 7pt and 111pt
-Sidebarhsep and sidebarwidth: 7pt and 111pt
-Sidebarvsep and sidebartopsep: 13.6pt and 0pt
-Sidebarheight: 539.9202pt
-Sidefoothsep and sidefootwidth: 7pt and 111pt
-Sidefootvsep and sidefootheight: 13.6pt and 539.9202pt
+Marginparsep and marginparwidth: 13.96799pt and 18.6192pt
+Sidecapsep and sidecapwidth: 7pt and 102pt
+Sidebarhsep and sidebarwidth: 7pt and 102pt
+Sidebarvsep and sidebartopsep: 14.5pt and 0pt
+Sidebarheight: 546.64995pt
+Sidefoothsep and sidefootwidth: 7pt and 102pt
+Sidefootvsep and sidefootheight: 14.5pt and 546.64995pt
 ******************************************************
 
 \tf@toc=\write5
@@ -1588,30 +1797,30 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 ### bottom level
 
 Here is how much of LuaTeX's memory you used:
- 20407 strings out of 494480
+ 20556 strings out of 494480
  100000,794899 words of node,token memory allocated
  1218 words of node memory still in use:
    5 hlist, 1 vlist, 2 rule, 5 glue, 8 attribute, 198 glue_spec, 8 attribute_lis
 t, 3 shape, 3 write nodes
-   avail lists: 1:1,2:1291,3:233,4:126,5:336,6:3127,7:1068,8:48,9:356,10:18,11:4
+   avail lists: 1:1,2:1291,3:233,4:126,5:336,6:3127,7:1066,8:48,9:356,10:14,11:4
 11
- 23609 multiletter control sequences out of 65536+600000
- 95 fonts using 22959503 bytes
- 57i,12n,83p,1330b,430s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 23672 multiletter control sequences out of 65536+600000
+ 98 fonts using 24420871 bytes
+ 57i,12n,83p,1330b,431s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</home/ed
 lab/texmf/tex/fonts/times.ttf></usr/share/texlive/texmf-dist/fonts/opentype/publ
 ic/ebgaramond/EBGaramond12-Regular.otf></home/edlab/texmf/tex/fonts/EBGaramond-I
 talic.ttf></home/edlab/texmf/tex/fonts/EBGaramond-Regular.ttf></home/edlab/texmf
 /tex/fonts/EBGaramond-Bold.ttf></home/edlab/texmf/tex/fonts/Formular-Italic.otf>
-</home/edlab/texmf/tex/fonts/Formular-Bold.otf></usr/share/texmf/fonts/opentype/
-public/lm/lmmono8-regular.otf></usr/share/texlive/texmf-dist/fonts/type1/arkandi
-s/adforn/OrnementsADF.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/la
-txfont/lcirclew.pfb>
-Output written on LIVRO.pdf (24 pages, 175776 bytes).
+</home/edlab/texmf/tex/fonts/Formular-bold-mi.otf></usr/share/texmf/fonts/openty
+pe/public/lm/lmmono8-regular.otf></usr/share/texlive/texmf-dist/fonts/type1/arka
+ndis/adforn/OrnementsADF.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/latxfont/lcirclew.pfb>
+Output written on LIVRO.pdf (46 pages, 49302282 bytes).
 
-PDF statistics: 149 PDF objects out of 1000 (max. 8388607)
- 95 compressed objects within 1 object stream
+PDF statistics: 231 PDF objects out of 1000 (max. 8388607)
+ 141 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
