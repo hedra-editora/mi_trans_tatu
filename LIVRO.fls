@@ -253,7 +253,6 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr5.tfm
 INPUT ./3-rosto.tex
 INPUT ./3-rosto.tex
-INPUT /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/ebgaramond12-regular.luc
 INPUT /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/times.luc
 INPUT /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/timesbi.luc
 INPUT /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/timesbd.luc

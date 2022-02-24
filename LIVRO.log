@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  23 FEB 2022 16:47
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  24 FEB 2022 12:07
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.109 seconds
+luaotfload | main : initialization completed in 0.093 seconds
 Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -1442,51 +1442,9 @@ Overfull \hbox (8.98634pt too wide) in paragraph at lines 39--41
 \TU/Formular(0)/bx/n/24.88 A mu-lher que vi-rou tatu 
  []
 
-(load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/ebg
-aramond12-regular.luc)
-\g__fontspec_family_EBGaramond12-Regular_int=\count332
-.................................................
-. fontspec info: "no-font-shape"
-. 
-. Could not resolve font "EBGaramond12-Regular/BI" (it probably doesn't
-. exist).
-.................................................
-.................................................
-. fontspec info: "no-font-shape"
-. 
-. Could not resolve font "EBGaramond12-Regular/B" (it probably doesn't exist).
-.................................................
-.................................................
-. fontspec info: "no-font-shape"
-. 
-. Could not resolve font "EBGaramond12-Regular/I" (it probably doesn't exist).
-.................................................
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'EBGaramond12-Regular(0)' created for font
-. 'EBGaramond12-Regular' with options [].
-.  
-.  This font family consists of the following NFSS series/shapes:
-.  
-. - 'normal' (m/n) with NFSS spec.:
-. <->"EBGaramond12-Regular:mode=node;script=latn;language=DFLT;"
-. - 'small caps'  (m/sc) with NFSS spec.:
-. <->"EBGaramond12-Regular:mode=node;script=latn;language=DFLT;+smcp;"
-.................................................
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `EBGaramond12-Regular' (encoding: TU).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-
-
-LaTeX Font Warning: Font shape `TU/EBGaramond12-Regular(0)/m/it' undefined
-(Font)              using `TU/EBGaramond12-Regular(0)/m/n' instead on input line
- 50.
-
 (load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/tim
 es.luc)
-\g__fontspec_family_TimesNewRoman_int=\count333
+\g__fontspec_family_TimesNewRoman_int=\count332
 (load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/tim
 esbi.luc)(load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/font
 s/otl/timesbd.luc)(load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/gen
@@ -1537,7 +1495,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ] [14
 
 ]
-<./imgs/img1.jpg, id=56, 1576.89125pt x 2489.3pt>
+<./imgs/img1.jpg, id=55, 1576.89125pt x 2489.3pt>
 File: ./imgs/img1.jpg Graphic file (type jpg)
 <use ./imgs/img1.jpg>
 Package luatex.def Info: ./imgs/img1.jpg  used on input line 33.
@@ -1553,7 +1511,7 @@ LaTeX Warning: Float too large for page by 98.29198pt on input line 34.
 [15<./imgs/img1.jpg>] [16
 
 ]
-<./imgs/img2.jpg, id=63, 1576.89125pt x 2489.3pt>
+<./imgs/img2.jpg, id=62, 1576.89125pt x 2489.3pt>
 File: ./imgs/img2.jpg Graphic file (type jpg)
 <use ./imgs/img2.jpg>
 Package luatex.def Info: ./imgs/img2.jpg  used on input line 58.
@@ -1569,7 +1527,7 @@ LaTeX Warning: Float too large for page by 98.29198pt on input line 59.
 [17<./imgs/img2.jpg>] [18
 
 ]
-<./imgs/img3.jpg, id=70, 1576.89125pt x 2489.3pt>
+<./imgs/img3.jpg, id=69, 1576.89125pt x 2489.3pt>
 File: ./imgs/img3.jpg Graphic file (type jpg)
 <use ./imgs/img3.jpg>
 Package luatex.def Info: ./imgs/img3.jpg  used on input line 106.
@@ -1585,7 +1543,7 @@ LaTeX Warning: Float too large for page by 98.29198pt on input line 107.
 [19<./imgs/img3.jpg>] [20
 
 ]
-<./imgs/img4.jpg, id=77, 1576.89125pt x 2489.3pt>
+<./imgs/img4.jpg, id=76, 1576.89125pt x 2489.3pt>
 File: ./imgs/img4.jpg Graphic file (type jpg)
 <use ./imgs/img4.jpg>
 Package luatex.def Info: ./imgs/img4.jpg  used on input line 152.
@@ -1601,7 +1559,7 @@ LaTeX Warning: Float too large for page by 98.29198pt on input line 153.
 [21<./imgs/img4.jpg>] [22
 
 ]
-<./imgs/img5.jpg, id=85, 1576.89125pt x 2489.3pt>
+<./imgs/img5.jpg, id=84, 1576.89125pt x 2489.3pt>
 File: ./imgs/img5.jpg Graphic file (type jpg)
 <use ./imgs/img5.jpg>
 Package luatex.def Info: ./imgs/img5.jpg  used on input line 186.
@@ -1617,7 +1575,7 @@ LaTeX Warning: Float too large for page by 98.29198pt on input line 187.
 [23<./imgs/img5.jpg>] [24
 
 ]
-<./imgs/img6.jpg, id=92, 1576.89125pt x 2489.3pt>
+<./imgs/img6.jpg, id=91, 1576.89125pt x 2489.3pt>
 File: ./imgs/img6.jpg Graphic file (type jpg)
 <use ./imgs/img6.jpg>
 Package luatex.def Info: ./imgs/img6.jpg  used on input line 222.
@@ -1633,7 +1591,7 @@ LaTeX Warning: Float too large for page by 98.29198pt on input line 223.
 [25<./imgs/img6.jpg>] [26
 
 ]
-<./imgs/img7.jpg, id=99, 1576.89125pt x 2489.3pt>
+<./imgs/img7.jpg, id=98, 1576.89125pt x 2489.3pt>
 File: ./imgs/img7.jpg Graphic file (type jpg)
 <use ./imgs/img7.jpg>
 Package luatex.def Info: ./imgs/img7.jpg  used on input line 247.
@@ -1649,7 +1607,7 @@ LaTeX Warning: Float too large for page by 98.29198pt on input line 248.
 [27<./imgs/img7.jpg>] [28
 
 ]
-<./imgs/img8.jpg, id=106, 1576.89125pt x 2489.3pt>
+<./imgs/img8.jpg, id=105, 1576.89125pt x 2489.3pt>
 File: ./imgs/img8.jpg Graphic file (type jpg)
 <use ./imgs/img8.jpg>
 Package luatex.def Info: ./imgs/img8.jpg  used on input line 287.
@@ -1665,7 +1623,7 @@ LaTeX Warning: Float too large for page by 98.29198pt on input line 288.
 [29<./imgs/img8.jpg>] [30
 
 ]
-<./imgs/img9.jpg, id=113, 1576.89125pt x 2489.3pt>
+<./imgs/img9.jpg, id=112, 1576.89125pt x 2489.3pt>
 File: ./imgs/img9.jpg Graphic file (type jpg)
 <use ./imgs/img9.jpg>
 Package luatex.def Info: ./imgs/img9.jpg  used on input line 328.
@@ -1681,7 +1639,7 @@ LaTeX Warning: Float too large for page by 98.29198pt on input line 329.
 [31<./imgs/img9.jpg>] [32
 
 ]
-<./imgs/img10.jpg, id=121, 1576.89125pt x 2489.3pt>
+<./imgs/img10.jpg, id=120, 1576.89125pt x 2489.3pt>
 File: ./imgs/img10.jpg Graphic file (type jpg)
 <use ./imgs/img10.jpg>
 Package luatex.def Info: ./imgs/img10.jpg  used on input line 361.
@@ -1697,7 +1655,7 @@ LaTeX Warning: Float too large for page by 98.29198pt on input line 362.
 [33<./imgs/img10.jpg>] [34
 
 ]
-<./imgs/img11.jpg, id=128, 1576.89125pt x 2489.3pt>
+<./imgs/img11.jpg, id=127, 1576.89125pt x 2489.3pt>
 File: ./imgs/img11.jpg Graphic file (type jpg)
 <use ./imgs/img11.jpg>
 Package luatex.def Info: ./imgs/img11.jpg  used on input line 400.
@@ -1713,7 +1671,7 @@ LaTeX Warning: Float too large for page by 98.29198pt on input line 401.
 [35<./imgs/img11.jpg>] [36
 
 ]
-<./imgs/img12.jpg, id=135, 1576.89125pt x 2489.3pt>
+<./imgs/img12.jpg, id=134, 1576.89125pt x 2489.3pt>
 File: ./imgs/img12.jpg Graphic file (type jpg)
 <use ./imgs/img12.jpg>
 Package luatex.def Info: ./imgs/img12.jpg  used on input line 437.
@@ -1729,7 +1687,7 @@ LaTeX Warning: Float too large for page by 98.29198pt on input line 438.
 [37<./imgs/img12.jpg>] [38
 
 ]
-<./imgs/img13.jpg, id=142, 1576.89125pt x 2489.3pt>
+<./imgs/img13.jpg, id=141, 1576.89125pt x 2489.3pt>
 File: ./imgs/img13.jpg Graphic file (type jpg)
 <use ./imgs/img13.jpg>
 Package luatex.def Info: ./imgs/img13.jpg  used on input line 470.
@@ -1786,41 +1744,36 @@ Sidefootvsep and sidefootheight: 14.5pt and 546.64995pt
 \tf@toc=\write5
 
 \openout5 = LIVRO.toc
-(./LIVRO.aux (./INPUTS.aux))
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
-)
+(./LIVRO.aux (./INPUTS.aux)))
 (\end occurred inside a group at level 1)
 
 ### semi simple group (level 1) entered at line 6 (\begingroup)
 ### bottom level
 
 Here is how much of LuaTeX's memory you used:
- 20556 strings out of 494480
+ 20515 strings out of 494480
  100000,794899 words of node,token memory allocated
  1218 words of node memory still in use:
    5 hlist, 1 vlist, 2 rule, 5 glue, 8 attribute, 198 glue_spec, 8 attribute_lis
 t, 3 shape, 3 write nodes
    avail lists: 1:1,2:1291,3:233,4:126,5:336,6:3127,7:1066,8:48,9:356,10:14,11:4
 11
- 23672 multiletter control sequences out of 65536+600000
- 98 fonts using 24420871 bytes
+ 23655 multiletter control sequences out of 65536+600000
+ 96 fonts using 23795895 bytes
  57i,12n,83p,1330b,431s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</home/ed
-lab/texmf/tex/fonts/times.ttf></usr/share/texlive/texmf-dist/fonts/opentype/publ
-ic/ebgaramond/EBGaramond12-Regular.otf></home/edlab/texmf/tex/fonts/EBGaramond-I
-talic.ttf></home/edlab/texmf/tex/fonts/EBGaramond-Regular.ttf></home/edlab/texmf
-/tex/fonts/EBGaramond-Bold.ttf></home/edlab/texmf/tex/fonts/Formular-Italic.otf>
-</home/edlab/texmf/tex/fonts/Formular-bold-mi.otf></usr/share/texmf/fonts/openty
-pe/public/lm/lmmono8-regular.otf></usr/share/texlive/texmf-dist/fonts/type1/arka
-ndis/adforn/OrnementsADF.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
-/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (46 pages, 49302263 bytes).
+lab/texmf/tex/fonts/times.ttf></home/edlab/texmf/tex/fonts/EBGaramond-Italic.ttf
+></home/edlab/texmf/tex/fonts/EBGaramond-Regular.ttf></home/edlab/texmf/tex/font
+s/EBGaramond-Bold.ttf></home/edlab/texmf/tex/fonts/Formular-Italic.otf></home/ed
+lab/texmf/tex/fonts/Formular-bold-mi.otf></usr/share/texmf/fonts/opentype/public
+/lm/lmmono8-regular.otf></usr/share/texlive/texmf-dist/fonts/type1/arkandis/adfo
+rn/OrnementsADF.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont
+/lcirclew.pfb>
+Output written on LIVRO.pdf (46 pages, 49296950 bytes).
 
-PDF statistics: 231 PDF objects out of 1000 (max. 8388607)
- 141 compressed objects within 2 object streams
+PDF statistics: 224 PDF objects out of 1000 (max. 8388607)
+ 137 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
