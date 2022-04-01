@@ -1,5 +1,5 @@
 \thispagestyle {empty}
-\contentsline {chapter}{Introdução}{9}%
+\contentsline {chapter}{Apresentação}{9}%
 \contentsline {section}{quem são os caxinauá}{9}%
 \contentsline {chapter}{Como foi feito este livro}{11}%
 \contentsline {chapter}{Para ler as palavras caxinauá}{13}%

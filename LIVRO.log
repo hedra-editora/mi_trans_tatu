@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  25 MAR 2022 12:13
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  31 MAR 2022 21:54
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -1174,222 +1174,349 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `TimesNewRoman' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-) [5] (./PRETAS.tex) [6] (./LIVRO.toc) [7] (./INTRO.tex
-[8
+) [5] (./PRETAS.tex) [6] (./LIVRO.toc) [7]
+(./APRESENTACAO.tex [8
 
 
 ] [9]) (./FEITO.tex [10] [11
 
 ]) (./CAXINAUA.tex [12]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 10.
-) (./TEXTO.tex [13
+(Font)              <12> on input line 9.
+)
+(./TEXTO.tex [13
+
+] [14] [15
 
 ]
-[14] [15
-
-] [16
+Package lettrine.sty Info: Targeted height = 19.936pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 19.07416pt (Q);
+(lettrine.sty)             reported on input line 18.
+Package lettrine.sty Info: Targeted height = 19.936pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 18.81561pt (K);
+(lettrine.sty)             reported on input line 34.
+ [16
 
 ]
 <./imgs/img1.jpg, id=63, 1576.89125pt x 2489.3pt>
 File: ./imgs/img1.jpg Graphic file (type jpg)
 <use ./imgs/img1.jpg>
-Package luatex.def Info: ./imgs/img1.jpg  used on input line 33.
+Package luatex.def Info: ./imgs/img1.jpg  used on input line 46.
 (luatex.def)             Requested size: 392.64803pt x 619.81656pt.
 
-Overfull \hbox (55.05206pt too wide) in paragraph at lines 33--34
+Overfull \hbox (55.05206pt too wide) in paragraph at lines 46--47
 []| [] 
  []
 
 
-LaTeX Warning: Float too large for page by 98.29198pt on input line 34.
+LaTeX Warning: Float too large for page by 98.29198pt on input line 47.
 
-[17<./imgs/img1.jpg>] [18
+[17<./imgs/img1.jpg>]
+Package lettrine.sty Info: Targeted height = 19.936pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 19.70613pt (A);
+(lettrine.sty)             reported on input line 66.
+Package lettrine.sty Info: Targeted height = 19.936pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 18.75816pt (H);
+(lettrine.sty)             reported on input line 72.
+ [18
 
 ]
 <./imgs/img2.jpg, id=70, 1576.89125pt x 2489.3pt>
 File: ./imgs/img2.jpg Graphic file (type jpg)
 <use ./imgs/img2.jpg>
-Package luatex.def Info: ./imgs/img2.jpg  used on input line 58.
+Package luatex.def Info: ./imgs/img2.jpg  used on input line 82.
 (luatex.def)             Requested size: 392.64803pt x 619.81656pt.
 
-Overfull \hbox (55.05206pt too wide) in paragraph at lines 58--59
+Overfull \hbox (55.05206pt too wide) in paragraph at lines 82--83
 []| [] 
  []
 
 
-LaTeX Warning: Float too large for page by 98.29198pt on input line 59.
+LaTeX Warning: Float too large for page by 98.29198pt on input line 83.
 
-[19<./imgs/img2.jpg>] [20
+[19<./imgs/img2.jpg>]
+Package lettrine.sty Info: Targeted height = 19.936pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 19.07416pt (Q);
+(lettrine.sty)             reported on input line 124.
+Package lettrine.sty Info: Targeted height = 19.936pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 18.75816pt (H);
+(lettrine.sty)             reported on input line 142.
+ [20
 
 ]
 <./imgs/img3.jpg, id=77, 1576.89125pt x 2489.3pt>
 File: ./imgs/img3.jpg Graphic file (type jpg)
 <use ./imgs/img3.jpg>
-Package luatex.def Info: ./imgs/img3.jpg  used on input line 106.
+Package luatex.def Info: ./imgs/img3.jpg  used on input line 162.
 (luatex.def)             Requested size: 392.64803pt x 619.81656pt.
 
-Overfull \hbox (55.05206pt too wide) in paragraph at lines 106--107
+Overfull \hbox (55.05206pt too wide) in paragraph at lines 162--163
 []| [] 
  []
 
 
-LaTeX Warning: Float too large for page by 98.29198pt on input line 107.
+LaTeX Warning: Float too large for page by 98.29198pt on input line 163.
 
-[21<./imgs/img3.jpg>] [22
+[21<./imgs/img3.jpg>]
+Package lettrine.sty Info: Targeted height = 19.936pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 18.75816pt (E);
+(lettrine.sty)             reported on input line 203.
+Package lettrine.sty Info: Targeted height = 19.936pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 18.75816pt (H);
+(lettrine.sty)             reported on input line 220.
+ [22
 
 ]
 <./imgs/img4.jpg, id=85, 1576.89125pt x 2489.3pt>
 File: ./imgs/img4.jpg Graphic file (type jpg)
 <use ./imgs/img4.jpg>
-Package luatex.def Info: ./imgs/img4.jpg  used on input line 152.
+Package luatex.def Info: ./imgs/img4.jpg  used on input line 240.
 (luatex.def)             Requested size: 392.64803pt x 619.81656pt.
 
-Overfull \hbox (55.05206pt too wide) in paragraph at lines 152--153
+Overfull \hbox (55.05206pt too wide) in paragraph at lines 240--241
 []| [] 
  []
 
 
-LaTeX Warning: Float too large for page by 98.29198pt on input line 153.
+LaTeX Warning: Float too large for page by 98.29198pt on input line 241.
 
-[23<./imgs/img4.jpg>] [24
+[23<./imgs/img4.jpg>]
+Package lettrine.sty Info: Targeted height = 19.936pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 19.70613pt (A);
+(lettrine.sty)             reported on input line 268.
+
+Underfull \hbox (badness 10000) in paragraph at lines 268--277
+
+ []
+
+Package lettrine.sty Info: Targeted height = 19.936pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 18.75816pt (Y);
+(lettrine.sty)             reported on input line 280.
+
+Underfull \hbox (badness 10000) in paragraph at lines 280--286
+
+ []
+
+[24
 
 ]
 <./imgs/img5.jpg, id=92, 1576.89125pt x 2489.3pt>
 File: ./imgs/img5.jpg Graphic file (type jpg)
 <use ./imgs/img5.jpg>
-Package luatex.def Info: ./imgs/img5.jpg  used on input line 186.
+Package luatex.def Info: ./imgs/img5.jpg  used on input line 293.
 (luatex.def)             Requested size: 392.64803pt x 619.81656pt.
 
-Overfull \hbox (55.05206pt too wide) in paragraph at lines 186--187
+Overfull \hbox (55.05206pt too wide) in paragraph at lines 293--294
 []| [] 
  []
 
 
-LaTeX Warning: Float too large for page by 98.29198pt on input line 187.
+LaTeX Warning: Float too large for page by 98.29198pt on input line 294.
 
-[25<./imgs/img5.jpg>] [26
+[25<./imgs/img5.jpg>]
+Package lettrine.sty Info: Targeted height = 19.936pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 18.75816pt (E);
+(lettrine.sty)             reported on input line 323.
+Package lettrine.sty Info: Targeted height = 19.936pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 18.75816pt (Y);
+(lettrine.sty)             reported on input line 335.
+ [26
 
 ]
 <./imgs/img6.jpg, id=99, 1576.89125pt x 2489.3pt>
 File: ./imgs/img6.jpg Graphic file (type jpg)
 <use ./imgs/img6.jpg>
-Package luatex.def Info: ./imgs/img6.jpg  used on input line 222.
+Package luatex.def Info: ./imgs/img6.jpg  used on input line 352.
 (luatex.def)             Requested size: 392.64803pt x 619.81656pt.
 
-Overfull \hbox (55.05206pt too wide) in paragraph at lines 222--223
+Overfull \hbox (55.05206pt too wide) in paragraph at lines 352--353
 []| [] 
  []
 
 
-LaTeX Warning: Float too large for page by 98.29198pt on input line 223.
+LaTeX Warning: Float too large for page by 98.29198pt on input line 353.
 
-[27<./imgs/img6.jpg>] [28
+[27<./imgs/img6.jpg>]
+Package lettrine.sty Info: Targeted height = 19.936pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 18.9018pt (N);
+(lettrine.sty)             reported on input line 371.
+Package lettrine.sty Info: Targeted height = 19.936pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 18.75816pt (Y);
+(lettrine.sty)             reported on input line 377.
+ [28
 
 ]
 <./imgs/img7.jpg, id=106, 1576.89125pt x 2489.3pt>
 File: ./imgs/img7.jpg Graphic file (type jpg)
 <use ./imgs/img7.jpg>
-Package luatex.def Info: ./imgs/img7.jpg  used on input line 247.
+Package luatex.def Info: ./imgs/img7.jpg  used on input line 387.
 (luatex.def)             Requested size: 392.64803pt x 619.81656pt.
 
-Overfull \hbox (55.05206pt too wide) in paragraph at lines 247--248
+Overfull \hbox (55.05206pt too wide) in paragraph at lines 387--388
 []| [] 
  []
 
 
-LaTeX Warning: Float too large for page by 98.29198pt on input line 248.
+LaTeX Warning: Float too large for page by 98.29198pt on input line 388.
 
-[29<./imgs/img7.jpg>] [30
+[29<./imgs/img7.jpg>]
+Package lettrine.sty Info: Targeted height = 19.936pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 18.75816pt (Um);
+(lettrine.sty)             reported on input line 421.
+Package lettrine.sty Info: Targeted height = 19.936pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 18.75816pt (H);
+(lettrine.sty)             reported on input line 435.
+ [30
 
 ]
 <./imgs/img8.jpg, id=113, 1576.89125pt x 2489.3pt>
 File: ./imgs/img8.jpg Graphic file (type jpg)
 <use ./imgs/img8.jpg>
-Package luatex.def Info: ./imgs/img8.jpg  used on input line 287.
+Package luatex.def Info: ./imgs/img8.jpg  used on input line 452.
 (luatex.def)             Requested size: 392.64803pt x 619.81656pt.
 
-Overfull \hbox (55.05206pt too wide) in paragraph at lines 287--288
+Overfull \hbox (55.05206pt too wide) in paragraph at lines 452--453
 []| [] 
  []
 
 
-LaTeX Warning: Float too large for page by 98.29198pt on input line 288.
+LaTeX Warning: Float too large for page by 98.29198pt on input line 453.
 
-[31<./imgs/img8.jpg>] [32
+[31<./imgs/img8.jpg>]
+Package lettrine.sty Info: Targeted height = 19.936pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 19.70613pt (A);
+(lettrine.sty)             reported on input line 487.
+Package lettrine.sty Info: Targeted height = 19.936pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 18.75816pt (H);
+(lettrine.sty)             reported on input line 501.
+ [32
 
 ]
 <./imgs/img9.jpg, id=121, 1576.89125pt x 2489.3pt>
 File: ./imgs/img9.jpg Graphic file (type jpg)
 <use ./imgs/img9.jpg>
-Package luatex.def Info: ./imgs/img9.jpg  used on input line 328.
+Package luatex.def Info: ./imgs/img9.jpg  used on input line 519.
 (luatex.def)             Requested size: 392.64803pt x 619.81656pt.
 
-Overfull \hbox (55.05206pt too wide) in paragraph at lines 328--329
+Overfull \hbox (55.05206pt too wide) in paragraph at lines 519--520
 []| [] 
  []
 
 
-LaTeX Warning: Float too large for page by 98.29198pt on input line 329.
+LaTeX Warning: Float too large for page by 98.29198pt on input line 520.
 
-[33<./imgs/img9.jpg>] [34
+[33<./imgs/img9.jpg>]
+Package lettrine.sty Info: Targeted height = 19.936pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 19.07416pt (O);
+(lettrine.sty)             reported on input line 546.
+Package lettrine.sty Info: Targeted height = 19.936pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 18.75816pt (H);
+(lettrine.sty)             reported on input line 558.
+ [34
 
 ]
 <./imgs/img10.jpg, id=128, 1576.89125pt x 2489.3pt>
 File: ./imgs/img10.jpg Graphic file (type jpg)
 <use ./imgs/img10.jpg>
-Package luatex.def Info: ./imgs/img10.jpg  used on input line 361.
+Package luatex.def Info: ./imgs/img10.jpg  used on input line 570.
 (luatex.def)             Requested size: 392.64803pt x 619.81656pt.
 
-Overfull \hbox (55.05206pt too wide) in paragraph at lines 361--362
+Overfull \hbox (55.05206pt too wide) in paragraph at lines 570--571
 []| [] 
  []
 
 
-LaTeX Warning: Float too large for page by 98.29198pt on input line 362.
+LaTeX Warning: Float too large for page by 98.29198pt on input line 571.
 
-[35<./imgs/img10.jpg>] [36
+[35<./imgs/img10.jpg>]
+Package lettrine.sty Info: Targeted height = 19.936pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 19.07416pt (O);
+(lettrine.sty)             reported on input line 603.
+Package lettrine.sty Info: Targeted height = 19.936pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 18.75816pt (H);
+(lettrine.sty)             reported on input line 616.
+ [36
 
 ]
 <./imgs/img11.jpg, id=135, 1576.89125pt x 2489.3pt>
 File: ./imgs/img11.jpg Graphic file (type jpg)
 <use ./imgs/img11.jpg>
-Package luatex.def Info: ./imgs/img11.jpg  used on input line 400.
+Package luatex.def Info: ./imgs/img11.jpg  used on input line 633.
 (luatex.def)             Requested size: 392.64803pt x 619.81656pt.
 
-Overfull \hbox (55.05206pt too wide) in paragraph at lines 400--401
+Overfull \hbox (55.05206pt too wide) in paragraph at lines 633--634
 []| [] 
  []
 
 
-LaTeX Warning: Float too large for page by 98.29198pt on input line 401.
+LaTeX Warning: Float too large for page by 98.29198pt on input line 634.
 
-[37<./imgs/img11.jpg>] [38
+[37<./imgs/img11.jpg>]
+Package lettrine.sty Info: Targeted height = 19.936pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 19.70613pt (A);
+(lettrine.sty)             reported on input line 664.
+Package lettrine.sty Info: Targeted height = 19.936pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 18.87308pt (B);
+(lettrine.sty)             reported on input line 676.
+ [38
 
 ]
 <./imgs/img12.jpg, id=142, 1576.89125pt x 2489.3pt>
 File: ./imgs/img12.jpg Graphic file (type jpg)
 <use ./imgs/img12.jpg>
-Package luatex.def Info: ./imgs/img12.jpg  used on input line 437.
+Package luatex.def Info: ./imgs/img12.jpg  used on input line 692.
 (luatex.def)             Requested size: 392.64803pt x 619.81656pt.
 
-Overfull \hbox (55.05206pt too wide) in paragraph at lines 437--438
+Overfull \hbox (55.05206pt too wide) in paragraph at lines 692--693
 []| [] 
  []
 
 
-LaTeX Warning: Float too large for page by 98.29198pt on input line 438.
+LaTeX Warning: Float too large for page by 98.29198pt on input line 693.
 
-[39<./imgs/img12.jpg>] [40
+[39<./imgs/img12.jpg>]
+Package lettrine.sty Info: Targeted height = 19.936pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 19.70613pt (A);
+(lettrine.sty)             reported on input line 719.
+Package lettrine.sty Info: Targeted height = 19.936pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 18.81561pt (K);
+(lettrine.sty)             reported on input line 731.
+ [40
 
 ]
 <./imgs/img13.jpg, id=149, 1576.89125pt x 2489.3pt>
 File: ./imgs/img13.jpg Graphic file (type jpg)
 <use ./imgs/img13.jpg>
-Package luatex.def Info: ./imgs/img13.jpg  used on input line 470.
+Package luatex.def Info: ./imgs/img13.jpg  used on input line 743.
 (luatex.def)             Requested size: 392.64803pt x 619.81656pt.
 
-Overfull \hbox (55.05206pt too wide) in paragraph at lines 470--471
+Overfull \hbox (55.05206pt too wide) in paragraph at lines 743--744
 []| [] 
  []
 
@@ -1446,14 +1573,14 @@ Sidefootvsep and sidefootheight: 14.5pt and 546.64995pt
 ### bottom level
 
 Here is how much of LuaTeX's memory you used:
- 13723 strings out of 480992
+ 13727 strings out of 480992
  100000,1144653 words of node,token memory allocated
- 1249 words of node memory still in use:
-   5 hlist, 1 vlist, 2 rule, 5 glue, 3 kern, 1 glyph, 13 attribute, 197 glue_spe
-c, 8 attribute_list, 3 shape, 3 write nodes
-   avail lists: 1:1,2:1926,3:233,4:126,5:336,6:58,7:3766,8:2,9:390,10:14,11:411
- 30567 multiletter control sequences out of 65536+600000
- 116 fonts using 27929099 bytes
+ 1313 words of node memory still in use:
+   6 hlist, 1 vlist, 2 rule, 2 glue, 3 kern, 5 glyph, 24 attribute, 197 glue_spe
+c, 13 attribute_list, 3 shape, 3 write, 4 pdf_colorstack nodes
+   avail lists: 1:1,2:1926,3:233,4:126,5:336,6:58,7:3765,8:2,9:390,10:14,11:411
+ 30571 multiletter control sequences out of 65536+600000
+ 118 fonts using 28959515 bytes
  51i,12n,102p,1330b,423s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</Li
 brary/Fonts/Times New Roman.ttf></usr/local/texlive/2020/texmf-dist/fonts/openty
@@ -1466,7 +1593,7 @@ ibrary/Fonts/Formular-Italic.otf></Users/suzana/Library/Fonts/Formular-Bold.otf>
 b></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb>
 </usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcircle
 w.pfb>
-Output written on LIVRO.pdf (48 pages, 49618520 bytes).
+Output written on LIVRO.pdf (48 pages, 49620539 bytes).
 
 PDF statistics: 232 PDF objects out of 1000 (max. 8388607)
  141 compressed objects within 2 object streams
