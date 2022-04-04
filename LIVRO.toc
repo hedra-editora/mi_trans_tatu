@@ -1,7 +1,7 @@
 \thispagestyle {empty}
-\contentsline {chapter}{Apresentação}{9}%
-\contentsline {section}{quem são os caxinauá}{9}%
-\contentsline {chapter}{Como foi feito este livro}{11}%
-\contentsline {chapter}{Para ler as palavras caxinauá}{13}%
-\contentsline {part}{A mulher que virou tatu}{15}%
+\contentsline {chapter}{Apresentação}{11}
+\contentsline {section}{quem são os caxinauá}{11}
+\contentsline {chapter}{Como foi feito este livro}{13}
+\contentsline {chapter}{Para ler as palavras caxinauá}{15}
+\contentsline {part}{A mulher que virou tatu}{17}
 \babel@toc {brazilian}{}
