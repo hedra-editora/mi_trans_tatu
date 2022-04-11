@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  11 APR 2022 07:45
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  11 APR 2022 07:46
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.086 seconds
+luaotfload | main : initialization completed in 0.092 seconds
 Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -1745,7 +1745,7 @@ t, 3 shape, 3 write nodes
    avail lists: 1:1,2:1299,3:236,4:134,5:240,6:2608,7:1077,8:48,9:356,10:13,11:2
 97
  23672 multiletter control sequences out of 65536+600000
- 101 fonts using 23845911 bytes
+ 101 fonts using 23845979 bytes
  46i,12n,83p,1330b,432s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</home/ed
 lab/texmf/tex/fonts/times.ttf></usr/share/texlive/texmf-dist/fonts/opentype/publ
@@ -1757,7 +1757,7 @@ ic.otf></home/edlab/texmf/tex/fonts/Formular-bold-mi.otf></usr/share/texmf/fonts
 e1/arkandis/adforn/OrnementsADF.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
 ublic/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
 msfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (50 pages, 49627452 bytes).
+Output written on LIVRO.pdf (50 pages, 49627428 bytes).
 
 PDF statistics: 238 PDF objects out of 1000 (max. 8388607)
  145 compressed objects within 2 object streams
