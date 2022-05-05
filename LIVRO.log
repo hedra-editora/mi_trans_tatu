@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  29 APR 2022 18:21
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  3 MAY 2022 00:22
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.113 seconds
+luaotfload | main : initialization completed in 0.098 seconds
 Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -1751,10 +1751,10 @@ Here is how much of LuaTeX's memory you used:
  1228 words of node memory still in use:
    5 hlist, 1 vlist, 2 rule, 5 glue, 8 attribute, 200 glue_spec, 8 attribute_lis
 t, 3 shape, 3 write nodes
-   avail lists: 1:1,2:1307,3:236,4:134,5:243,6:2634,7:1079,8:48,9:356,10:13,11:3
+   avail lists: 1:1,2:1307,3:236,4:134,5:243,6:2631,7:1079,8:48,9:356,10:14,11:3
 03
  23672 multiletter control sequences out of 65536+600000
- 101 fonts using 23845979 bytes
+ 101 fonts using 23846183 bytes
  46i,12n,83p,1330b,430s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</home/ed
 lab/texmf/tex/fonts/times.ttf></usr/share/texlive/texmf-dist/fonts/opentype/publ
@@ -1766,7 +1766,7 @@ ic.otf></home/edlab/texmf/tex/fonts/Formular-bold-mi.otf></usr/share/texmf/fonts
 e1/arkandis/adforn/OrnementsADF.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
 ublic/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
 msfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (50 pages, 49626554 bytes).
+Output written on LIVRO.pdf (50 pages, 49626080 bytes).
 
 PDF statistics: 238 PDF objects out of 1000 (max. 8388607)
  145 compressed objects within 2 object streams
