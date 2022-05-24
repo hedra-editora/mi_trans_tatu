@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  24 MAY 2022 16:27
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  24 MAY 2022 16:33
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.102 seconds
+luaotfload | main : initialization completed in 0.101 seconds
 Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -1392,7 +1392,14 @@ Overfull \hbox (477.75484pt too wide) in paragraph at lines 5--6
 []| [] 
  []
 
-[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+(load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/lmm
+ono12-regular.luc)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `lmtt' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+(load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/lmm
+ono8-regular.luc) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 
 <./ABERTURA.png>] [2]
@@ -1400,8 +1407,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `Formular' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-)
-[3] (./2-creditos.tex
+) [3] (./2-creditos.tex
 Underfull \hbox (badness 10000) in paragraph at lines 14--18
 
  []
@@ -1471,24 +1477,26 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `TimesNewRoman' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-) [5] (./PRETAS.tex
-[6]) [7] [8] (./LIVRO.toc) [9] (./APRESENTACAO.tex [10
+) [5] (./PRETAS.tex(load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/ge
+neric/fonts/otl/lmmono10-regular.luc) [6]) [7] [8] (./LIVRO.toc) [9] (./APRESEN
+TACAO.tex [10
 
 
-] [11]) (./FEITO.tex
-[12] [13
+]
+[11]) (./FEITO.tex [12] [13
 
 ]) (./CAXINAUA.tex [14]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 9.
 ) (./TEXTO.tex [15
 
-] [16] [17
+] [16]
+[17
 
 ] [18
 
 ]
-<./imgs/img1.pdf, id=68, 426.79147pt x 625.96059pt>
+<./imgs/img1.pdf, id=69, 426.79147pt x 625.96059pt>
 File: ./imgs/img1.pdf Graphic file (type pdf)
 <use ./imgs/img1.pdf>
 Package luatex.def Info: ./imgs/img1.pdf  used on input line 48.
@@ -1504,7 +1512,7 @@ LaTeX Warning: Float too large for page by 85.66435pt on input line 49.
 [19<./imgs/img1.pdf>] [20
 
 ]
-<./imgs/img2.pdf, id=88, 426.79147pt x 625.96059pt>
+<./imgs/img2.pdf, id=89, 426.79147pt x 625.96059pt>
 File: ./imgs/img2.pdf Graphic file (type pdf)
 <use ./imgs/img2.pdf>
 Package luatex.def Info: ./imgs/img2.pdf  used on input line 84.
@@ -1520,7 +1528,7 @@ LaTeX Warning: Float too large for page by 85.66435pt on input line 85.
 [21<./imgs/img2.pdf>] [22
 
 ]
-<./imgs/img3.pdf, id=110, 426.79147pt x 625.96059pt>
+<./imgs/img3.pdf, id=111, 426.79147pt x 625.96059pt>
 File: ./imgs/img3.pdf Graphic file (type pdf)
 <use ./imgs/img3.pdf>
 Package luatex.def Info: ./imgs/img3.pdf  used on input line 165.
@@ -1536,7 +1544,7 @@ LaTeX Warning: Float too large for page by 85.66435pt on input line 166.
 [23<./imgs/img3.pdf>] [24
 
 ]
-<./imgs/img4.pdf, id=131, 426.79147pt x 625.96059pt>
+<./imgs/img4.pdf, id=132, 426.79147pt x 625.96059pt>
 File: ./imgs/img4.pdf Graphic file (type pdf)
 <use ./imgs/img4.pdf>
 Package luatex.def Info: ./imgs/img4.pdf  used on input line 243.
@@ -1554,7 +1562,7 @@ LaTeX Warning: Float too large for page by 85.66435pt on input line 244.
 ]
 warning  (file ./imgs/img5.pdf) (pdf inclusion): PDF inclusion: found PDF versio
 n '1.7', but at most version '1.5' allowed
-<./imgs/img5.pdf, id=152, 426.79147pt x 625.96059pt>
+<./imgs/img5.pdf, id=153, 426.79147pt x 625.96059pt>
 File: ./imgs/img5.pdf Graphic file (type pdf)
 <use ./imgs/img5.pdf>
 Package luatex.def Info: ./imgs/img5.pdf  used on input line 296.
@@ -1570,7 +1578,7 @@ LaTeX Warning: Float too large for page by 85.66435pt on input line 297.
 [27<./imgs/img5.pdf>] [28
 
 ]
-<./imgs/img6.pdf, id=167, 426.79147pt x 625.96059pt>
+<./imgs/img6.pdf, id=168, 426.79147pt x 625.96059pt>
 File: ./imgs/img6.pdf Graphic file (type pdf)
 <use ./imgs/img6.pdf>
 Package luatex.def Info: ./imgs/img6.pdf  used on input line 356.
@@ -1586,7 +1594,7 @@ LaTeX Warning: Float too large for page by 85.66435pt on input line 357.
 [29<./imgs/img6.pdf>] [30
 
 ]
-<./imgs/img7.pdf, id=189, 426.79147pt x 625.96059pt>
+<./imgs/img7.pdf, id=190, 426.79147pt x 625.96059pt>
 File: ./imgs/img7.pdf Graphic file (type pdf)
 <use ./imgs/img7.pdf>
 Package luatex.def Info: ./imgs/img7.pdf  used on input line 391.
@@ -1602,23 +1610,23 @@ LaTeX Warning: Float too large for page by 85.66435pt on input line 392.
 [31<./imgs/img7.pdf>] [32
 
 ]
-<./imgs/img8.pdf, id=211, 426.79147pt x 625.96059pt>
+<./imgs/img8.pdf, id=212, 426.79147pt x 625.96059pt>
 File: ./imgs/img8.pdf Graphic file (type pdf)
 <use ./imgs/img8.pdf>
 Package luatex.def Info: ./imgs/img8.pdf  used on input line 456.
-(luatex.def)             Requested size: 392.64803pt x 575.89072pt.
+(luatex.def)             Requested size: 421.10078pt x 617.62068pt.
 
-Overfull \hbox (55.05206pt too wide) in paragraph at lines 456--457
+Overfull \hbox (74.9689pt too wide) in paragraph at lines 456--457
 []| [] 
  []
 
 
-LaTeX Warning: Float too large for page by 85.66435pt on input line 457.
+LaTeX Warning: Float too large for page by 84.71518pt on input line 457.
 
 [33<./imgs/img8.pdf>] [34
 
 ]
-<./imgs/img9.pdf, id=232, 426.79147pt x 625.96059pt>
+<./imgs/img9.pdf, id=233, 426.79147pt x 625.96059pt>
 File: ./imgs/img9.pdf Graphic file (type pdf)
 <use ./imgs/img9.pdf>
 Package luatex.def Info: ./imgs/img9.pdf  used on input line 523.
@@ -1634,7 +1642,7 @@ LaTeX Warning: Float too large for page by 85.66435pt on input line 524.
 [35<./imgs/img9.pdf>] [36
 
 ]
-<./imgs/img10.pdf, id=253, 426.79147pt x 625.96059pt>
+<./imgs/img10.pdf, id=254, 426.79147pt x 625.96059pt>
 File: ./imgs/img10.pdf Graphic file (type pdf)
 <use ./imgs/img10.pdf>
 Package luatex.def Info: ./imgs/img10.pdf  used on input line 576.
@@ -1650,7 +1658,7 @@ LaTeX Warning: Float too large for page by 85.66435pt on input line 577.
 [37<./imgs/img10.pdf>] [38
 
 ]
-<./imgs/img11.pdf, id=276, 426.79147pt x 625.96059pt>
+<./imgs/img11.pdf, id=277, 426.79147pt x 625.96059pt>
 File: ./imgs/img11.pdf Graphic file (type pdf)
 <use ./imgs/img11.pdf>
 Package luatex.def Info: ./imgs/img11.pdf  used on input line 639.
@@ -1668,23 +1676,23 @@ LaTeX Warning: Float too large for page by 85.66435pt on input line 640.
 ]
 warning  (file ./imgs/img12.pdf) (pdf inclusion): PDF inclusion: found PDF versi
 on '1.7', but at most version '1.5' allowed
-<./imgs/img12.pdf, id=297, 426.79147pt x 625.96059pt>
+<./imgs/img12.pdf, id=298, 426.79147pt x 625.96059pt>
 File: ./imgs/img12.pdf Graphic file (type pdf)
 <use ./imgs/img12.pdf>
 Package luatex.def Info: ./imgs/img12.pdf  used on input line 698.
-(luatex.def)             Requested size: 392.64803pt x 575.89072pt.
+(luatex.def)             Requested size: 421.10078pt x 617.62068pt.
 
-Overfull \hbox (55.05206pt too wide) in paragraph at lines 698--699
+Overfull \hbox (74.9689pt too wide) in paragraph at lines 698--699
 []| [] 
  []
 
 
-LaTeX Warning: Float too large for page by 85.66435pt on input line 699.
+LaTeX Warning: Float too large for page by 84.71518pt on input line 699.
 
 [41<./imgs/img12.pdf>] [42
 
 ]
-<./imgs/img13.pdf, id=315, 426.79147pt x 625.96059pt>
+<./imgs/img13.pdf, id=316, 426.79147pt x 625.96059pt>
 File: ./imgs/img13.pdf Graphic file (type pdf)
 <use ./imgs/img13.pdf>
 Package luatex.def Info: ./imgs/img13.pdf  used on input line 749.
@@ -1742,29 +1750,30 @@ Sidefootvsep and sidefootheight: 14.5pt and 546.64995pt
 ### bottom level
 
 Here is how much of LuaTeX's memory you used:
- 20523 strings out of 494480
+ 20538 strings out of 494480
  100000,794899 words of node,token memory allocated
  1228 words of node memory still in use:
    5 hlist, 1 vlist, 2 rule, 5 glue, 8 attribute, 200 glue_spec, 8 attribute_lis
 t, 3 shape, 3 write nodes
-   avail lists: 1:1,2:1283,3:235,4:134,5:237,6:2603,7:1054,8:44,9:343,10:13,11:3
+   avail lists: 1:1,2:1307,3:236,4:134,5:243,6:2633,7:1079,8:48,9:356,10:13,11:3
 03
- 23663 multiletter control sequences out of 65536+600000
- 97 fonts using 23341627 bytes
- 44i,14n,83p,1330b,430s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 23672 multiletter control sequences out of 65536+600000
+ 101 fonts using 23846115 bytes
+ 46i,12n,83p,1330b,430s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</home/ed
 lab/texmf/tex/fonts/times.ttf></usr/share/texlive/texmf-dist/fonts/opentype/publ
 ic/libertine/LinLibertine_RI.otf></usr/share/texlive/texmf-dist/fonts/opentype/p
 ublic/libertine/LinLibertine_R.otf></usr/share/texlive/texmf-dist/fonts/opentype
 /public/libertine/LinLibertine_RB.otf></home/edlab/texmf/tex/fonts/Formular-Ital
-ic.otf></home/edlab/texmf/tex/fonts/Formular-bold-mi.otf></usr/share/texlive/tex
-mf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb></usr/share/texlive/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fon
-ts/type1/public/amsfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (50 pages, 52805020 bytes).
+ic.otf></home/edlab/texmf/tex/fonts/Formular-bold-mi.otf></usr/share/texmf/fonts
+/opentype/public/lm/lmmono8-regular.otf></usr/share/texlive/texmf-dist/fonts/typ
+e1/arkandis/adforn/OrnementsADF.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/latxfont/lcirclew.pfb>
+Output written on LIVRO.pdf (50 pages, 52813017 bytes).
 
-PDF statistics: 405 PDF objects out of 1000 (max. 8388607)
- 252 compressed objects within 3 object streams
+PDF statistics: 412 PDF objects out of 1000 (max. 8388607)
+ 256 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 

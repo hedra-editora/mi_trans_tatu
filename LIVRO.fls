@@ -238,6 +238,8 @@ INPUT ./1-fronte.tex
 INPUT ./ABERTURA.png
 INPUT ./ABERTURA.png
 INPUT ./ABERTURA.png
+INPUT /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/lmmono12-regular.luc
+INPUT /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/lmmono8-regular.luc
 OUTPUT LIVRO.pdf
 INPUT ./2-creditos.tex
 INPUT ./2-creditos.tex
@@ -261,6 +263,7 @@ INPUT /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/timesbd.
 INPUT /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/timesi.luc
 INPUT ./PRETAS.tex
 INPUT ./PRETAS.tex
+INPUT /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/lmmono10-regular.luc
 INPUT ./LIVRO.toc
 INPUT ./LIVRO.toc
 INPUT ./APRESENTACAO.tex
